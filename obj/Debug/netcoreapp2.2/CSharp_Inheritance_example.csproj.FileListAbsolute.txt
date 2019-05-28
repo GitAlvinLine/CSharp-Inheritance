@@ -1,0 +1,11 @@
+/Users/alvinescobar/C#/practice/CSharp_Inheritance_example/bin/Debug/netcoreapp2.2/CSharp_Inheritance_example.deps.json
+/Users/alvinescobar/C#/practice/CSharp_Inheritance_example/bin/Debug/netcoreapp2.2/CSharp_Inheritance_example.runtimeconfig.json
+/Users/alvinescobar/C#/practice/CSharp_Inheritance_example/bin/Debug/netcoreapp2.2/CSharp_Inheritance_example.runtimeconfig.dev.json
+/Users/alvinescobar/C#/practice/CSharp_Inheritance_example/bin/Debug/netcoreapp2.2/CSharp_Inheritance_example.dll
+/Users/alvinescobar/C#/practice/CSharp_Inheritance_example/bin/Debug/netcoreapp2.2/CSharp_Inheritance_example.pdb
+/Users/alvinescobar/C#/practice/CSharp_Inheritance_example/obj/Debug/netcoreapp2.2/CSharp_Inheritance_example.csprojAssemblyReference.cache
+/Users/alvinescobar/C#/practice/CSharp_Inheritance_example/obj/Debug/netcoreapp2.2/CSharp_Inheritance_example.csproj.CoreCompileInputs.cache
+/Users/alvinescobar/C#/practice/CSharp_Inheritance_example/obj/Debug/netcoreapp2.2/CSharp_Inheritance_example.AssemblyInfoInputs.cache
+/Users/alvinescobar/C#/practice/CSharp_Inheritance_example/obj/Debug/netcoreapp2.2/CSharp_Inheritance_example.AssemblyInfo.cs
+/Users/alvinescobar/C#/practice/CSharp_Inheritance_example/obj/Debug/netcoreapp2.2/CSharp_Inheritance_example.dll
+/Users/alvinescobar/C#/practice/CSharp_Inheritance_example/obj/Debug/netcoreapp2.2/CSharp_Inheritance_example.pdb
